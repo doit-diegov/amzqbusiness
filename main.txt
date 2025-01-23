@@ -1,0 +1,20 @@
+GitHub (Cloud) is a web-based hosting service for software development providing code storage and management services with version control. You can connect your GitHub (Cloud) instance to Amazon Q Business—using either the AWS Management Console, CLI, or the CreateDataSource API—and create an Amazon Q web experience.
+
+Topics
+GitHub (Cloud) connector overview
+Prerequisites for connecting Amazon Q Business to GitHub (Cloud)
+Connecting Amazon Q Business to GitHub (Cloud) using the console
+Connecting Amazon Q Business to GitHub (Cloud) using APIs
+Connecting Amazon Q Business to GitHub (Cloud) using AWS CloudFormation
+How Amazon Q Business connector crawls GitHub (Cloud) ACLs
+GitHub (Cloud) data source connector field mappings
+IAM role for GitHub (Cloud) connector
+Learn more
+
+For an overview of the Amazon Q web experience creation process using IAM Identity Center, see Configuring an application using IAM Identity Center.
+
+For an overview of the Amazon Q web experience creation process using AWS Identity and Access Management, see Configuring an application using IAM.
+
+For an overview of connector features, see Data source connector concepts.
+
+For information about connector configuration best practices, see Connector configuration best practices.
